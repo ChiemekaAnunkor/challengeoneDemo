@@ -25,6 +25,11 @@ On the Settings page, scroll down to the GitHub Pages section. Then, in the sect
 
 Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! For example, if your GitHub username is "lernantino" and the project is "css-demo-site", then your URL would be <lernantino.github.io/css-demo-site>.
 
+## Mock Up
+
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/63639477/191558838-31fe64f2-bfb5-44ea-a928-4d66a7586a30.png">
+
+
 
 
 
