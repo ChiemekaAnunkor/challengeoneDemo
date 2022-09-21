@@ -28,6 +28,7 @@ Navigate to <your-github-username.github.io/your-repository-name> and you will f
 ## Mock Up
 
 <img width="945" alt="image" src="https://user-images.githubusercontent.com/63639477/191558838-31fe64f2-bfb5-44ea-a928-4d66a7586a30.png">
+<img width="943" alt="image" src="https://user-images.githubusercontent.com/63639477/191559101-354838e1-65e6-48ac-8466-fc1d76afdf10.png">
 
 
 
